@@ -1,0 +1,3 @@
+tico
+teco
+tuco
